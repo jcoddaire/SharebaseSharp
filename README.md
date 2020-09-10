@@ -1,5 +1,7 @@
 # About
-This is a C# wrapper application that enables developers to quickly interact with Sharebase, a file storage and sharing solution created by Hyland. This uses their API service to upload documents and share directories.
+This is a C# wrapper application that enables developers to quickly interact with Sharebase, a file storage and sharing solution created by Hyland. This uses their API service to upload documents and share directories. More on that here.
+
+https://developers.sharebase.com/
 
 NOTE! I am not affiliated with Hyland / Sharebase in any way. Do not ask for profesional support using this tool. Understand that this is something I (might) maintain in my free time. You are also free to fork this and improve it so it matches your organization's needs.
 
